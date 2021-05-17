@@ -2,7 +2,7 @@
 
 ## 6.2.0 (unreleased)
 
-- ...
+- Move card options, assign, edit a delete card to a menu.
 
 ## 6.1.1 (2021-05-18)
 
